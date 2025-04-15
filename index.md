@@ -15,7 +15,7 @@ permalink:  /
         anand[dot]brahmbhatt[at]iitdalumni[dot]com
         <br>
         <br>
-        <b>Research Interests</b>
+        *Research Interests*
         <br>
         Online Non-Stochastic Control
         <br>
@@ -71,7 +71,7 @@ I graduated from the [Indian Institute of Technology, Delhi](https://home.iitd.a
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://www.princeton.edu"><img style="width:150px;" src="/img/Google_Research_logo.png"></a>
+            <a href="https://www.princeton.edu"><img style="width:150px;" src="/img/seal-and-logo-of-princeton-university-image478920315.html"></a>
         </div>
         <div class="logo-desc">
             Princeton University<br>
