@@ -83,7 +83,6 @@ I graduated from the [Indian Institute of Technology, Delhi](https://home.iitd.a
 ---
 
 <a name="/news"></a># Updates
-# Updates
 - [April 2025] Our paper *A New Approach to Controlling Linear Dynamical Systems* is now available on arXiv.
 - [March 2025] Our paper *Measures for Closeness to Cordiality for Graphs* got published in the *Discrete Applied Mathematics* journal.
 - [October 2024] Attended *CIKM 2024* in Boise to present our paper *LLP-Bench: A Large Scale Tabular Benchmark for Learning from Label Proportions*.
