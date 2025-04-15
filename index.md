@@ -146,7 +146,7 @@ I graduated from the [Indian Institute of Technology, Delhi](https://home.iitd.a
 <h2 class="pubt">Measures for Closeness to Cordiality for Graphs</h2>
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt#, Kartikeya Rai#, Amitabha Tripathi# (#-alphabetical)</span><br> 
-    <span class="conf">Discrete Applied Mathematics, 2025t</span>  <span class="links">
+    <span class="conf">Discrete Applied Mathematics, 2025</span>  <span class="links">
         <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X25001362?via%3Dihub">Journal Paper</a>
     </span>
 </p>
