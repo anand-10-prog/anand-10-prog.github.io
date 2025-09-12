@@ -28,7 +28,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a graduate student in the Computer Science Department at [Princeton University](https://www.princeton.edu), where I work with [Prof. Elad Hazan](https://www.ehazan.com). I was generously awarded the prestegious [Gordon Y.S. Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship) for incoming graduate students at Princeton University. My current research focuses on *efficient online non-stochastic control*, where I aim to develop new techniques for controlling dynamical systems and explore their implications for sequence-to-sequence models. I am particularly motivated by developing abstract, mathematical perspectives on learning algorithms and uncovering their connections to deeper structures in mathematics.
+I am a graduate student in the Computer Science Department at [Princeton University](https://www.princeton.edu), where I work with [Prof. Elad Hazan](https://www.ehazan.com). I was generously awarded the prestegious [Gordon Y.S. Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship) for incoming graduate students at Princeton University. My current research focuses on provable *LLM architecture design* via modeling language as a dynamical system.I aim to develop new techniques for learning and controlling dynamical systems and explore their implications for sequence-to-sequence models. I am particularly motivated by developing abstract, mathematical perspectives on learning algorithms and uncovering their connections to deeper structures in mathematics.
 
 Previously, I was a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences team under the mentorship of [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). My work focused on understanding the learnability of aggregate data and the privacy guarantees afforded by such aggregations.
 
@@ -85,6 +85,8 @@ I graduated from the [Indian Institute of Technology, Delhi](https://home.iitd.a
 <a name="/news"></a>
 # Updates
 
+- [Aug 2025] Our paper *Universal Learning of Nonlinear Dynamics* is available on arXiv.
+- [May 2025] Our paper *Efficient Spectral Control of Partially Observed Linear Dynamical Systems* is available on arXiv.
 - [April 2025] Our paper *A New Approach to Controlling Linear Dynamical Systems* is now available on arXiv.
 - [March 2025] Our paper *Measures for Closeness to Cordiality for Graphs* got published in the *Discrete Applied Mathematics* journal.
 - [October 2024] Attended *CIKM 2024* in Boise to present our paper *LLP-Bench: A Large Scale Tabular Benchmark for Learning from Label Proportions*.
@@ -108,6 +110,28 @@ I graduated from the [Indian Institute of Technology, Delhi](https://home.iitd.a
 
 <a name="/publications"></a>
 # Publications & Patents
+
+<a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Universal Learning of Nonlinear Dynamics</h2>
+<p class="pubd">
+    <span class="authors"> Evan Dogariu, Anand Brahmbhatt, Elad Hazan </span> <br>
+    <span class="conf">Preprint</span> <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2508.11990">Paper</a>
+    </span>
+</p>
+<!-- <img src="/img/aamas.png"> -->
+<!-- <hr> -->
+
+<a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Efficient Spectral Control of Partially Observed Linear Dynamical Systems</h2>
+<p class="pubd">
+    <span class="authors">Anand Brahmbhatt#, Gon Buzaglo#, Sofiia Druchyna# ,Elad Hazan# (#-alphabetical) </span> <br>
+    <span class="conf">Preprint</span> <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2505.20943">Paper</a>
+    </span>
+</p>
+<!-- <img src="/img/aamas.png"> -->
+<!-- <hr> -->
 
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">A New Approach to Controlling Linear Dynamical Systems</h2>
