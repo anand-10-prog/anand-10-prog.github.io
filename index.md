@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-4 col-xs-8">
-        <img src="/img/anand_img.jpg">
+        <img src="/img/anand_img.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Graduate Student, Princeton University<br>
